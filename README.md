@@ -1,2 +1,2 @@
 # Sales-Data
-Sales Data of Car Industry
+Store Sales Analysis
